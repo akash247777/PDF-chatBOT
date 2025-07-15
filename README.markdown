@@ -82,9 +82,6 @@ pip install streamlit PyMuPDF pytesseract Pillow langchain-community faiss-cpu h
 - The app assumes English text for OCR (`lang="eng"`). Modify the `ocr_bytes` function for other languages.
 - The Kimi-K2-Instruct model may occasionally be unavailable due to API constraints.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with improvements or bug fixes.
 
