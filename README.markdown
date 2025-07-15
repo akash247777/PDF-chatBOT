@@ -1,6 +1,11 @@
 # Kimi-K2 + Tesseract RAG
 
 A Streamlit-based Retrieval-Augmented Generation (RAG) application that enables users to upload PDF or image files, extract text using Tesseract OCR for images and embedded images in PDFs, and query the content using the Kimi-K2-Instruct model from Moonshot AI via HuggingFace's InferenceClient. The app leverages FAISS for vector-based similarity search to provide context-aware responses.
+<img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/14122b30-0dad-45eb-9b77-10315b0b750a" />
+
+<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/fbdbf435-232f-44df-82d1-e85acd9676cc" />
+
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/05863cb2-77b1-4c36-aa23-318d8a5126f5" />
 
 ## Features
 - Upload and process multiple PDFs or images (PNG, JPG, JPEG).
