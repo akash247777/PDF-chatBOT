@@ -11,7 +11,7 @@ from huggingface_hub import InferenceClient
 # ---------- TESSERACT PATH ----------
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-HF_API_KEY = ""
+HF_API_KEY = "ADD YOUR API KEY"
 
 os.environ["HF_TOKEN"] = HF_API_KEY  # Ensure your token is set
 client = InferenceClient(
